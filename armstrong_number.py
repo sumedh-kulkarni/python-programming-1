@@ -1,3 +1,6 @@
+#armsrtong number
+#nimish gedam
+#M46
 def armstrong_number(x):
  s=0
  z=x

@@ -1,3 +1,6 @@
+#DICE OUTPUT
+#NIMISH GEDAM 
+#M46
 import random
 game_start = input("Would you like to roll the dice?")
 

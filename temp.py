@@ -1,3 +1,6 @@
+#temprtute
+#NIMISH GEDAM
+#M46
 x=int(input("Enter temperature:"))
 y=input("is it in 'celcius' or 'temperatur'")
 if y is 'celsius':

@@ -1,3 +1,6 @@
+#factorial of a number
+#NIMISH GEDAM
+#M46
 def factorial(n): #function_defination
  f=1
  if n<0:

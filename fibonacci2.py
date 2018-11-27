@@ -1,4 +1,7 @@
-# Program to display the Fibonacci sequence up to n-th term where n is provided by the user
+ #FIBONACCI SEQUENCE
+ #NIMISH GEDAM
+ #M46
+ # Program to display the Fibonacci sequence up to n-th term where n is provided by the user
 
 # change this value for a different result
 nterms = 10

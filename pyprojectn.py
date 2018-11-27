@@ -1,3 +1,6 @@
+#IMAGE VIEWER
+#NIMISH GEDAM
+#M46
 import PIL.Image
 
 try:
